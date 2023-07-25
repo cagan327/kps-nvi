@@ -1,0 +1,19 @@
+{
+  "name": "kps-nvi",
+  "version": "1.0.0",
+  "description": "NVI'nin KPS2 servisleri için npm library",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "kps",
+    "kps2",
+    "nvi",
+    "kimlik",
+    "paylaşım",
+    "sistemi"
+  ],
+  "author": "Cagan Senturk <cagan327@gmail.com>",
+  "license": "MIT"
+}
